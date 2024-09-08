@@ -2863,6 +2863,8 @@
   "game-reconnect-modal-body": "Dejaste un juego en progreso. ¿Quieres volver a conectarte a tu juego anterior?",
   "toggle_locked": "Mostrar Bloqueados",
   "creator": "Creador",
+  "switch_server": "Cambiar de servidor",
+  "version": "Versión",
   "key": "Llave",
   "action": "Acción",
   "key_desc_sell": "Vender pokémon seleccionado",
@@ -3125,5 +3127,15 @@
     "fishing_rarity_rate_description": "La calidad de la caña que uses para pescar influencia la rareza de los Pokémon que puedes atrapar.",
     "pool_size_per_category": "Tamaño de la pool por categoría",
     "pool_size_per_category_description": "Los pokémon que encuentras en las tiendas se toman de una pool compartida por todos los jugadores. El número de especímenes de cada pokémon en la pool depende de su rareza y de su número de evoluciones."
+  },
+  "errors": {
+    "USER_INACTIVE": "Se te ha echado por inactividad para ahorrar los recursos del servidor",
+    "USER_KICKED": "Se te ha echado de esta sala",
+    "USER_BANNED": "Se te ha vetado tu cuenta",
+    "USER_RANK_TOO_LOW": "Tu rango de jugador no es suficiente para participar en esta sala",
+    "ROOM_FULL": "La sala está llena",
+    "ROOM_EMPTY": "Esta sala se ha eliminado por falta de jugadores",
+    "ROOM_DELETED": "Esta sala se ha eliminado",
+    "UNKNOWN_ERROR": "Ha sucedido un error inesperado: {{error}}"
   }
 }
