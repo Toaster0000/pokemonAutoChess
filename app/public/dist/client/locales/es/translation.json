@@ -1210,6 +1210,7 @@
     "CONFUSING_MIND": "Deja CONFUSION a 2 oponentes en la línea de fondo durante [3,SP] segundos",
     "KNOWLEDGE_THIEF": "Lanza la habilidad del objetivo. El jugador gana 1 XP.",
     "KING_SHIELD": "Otorga PROTECT al usuario durante 1.5 segundos, otorga [10,20,30,SP] SHIELD e intercambia su posición con la del enemigo más lejano",
+    "U_TURN": "Obtienes [15,30,50,SP] SHIELD, intercambias posiciones con el objetivo, que está CHARM durante 1 segundo",
     "EXPLOSION": "Otorga [50,100,200,SP] de SPECIAL a todos los enemigos adyacentes. También daña al usuario.",
     "NIGHTMARE": "Deja SILENCE a todo el equipo enemigo durante [1.5,3,8] segundos. Cualquier oponente SLEEP o FLINCH o SILENCE toma [25,50,100,SP] SPECIAL.",
     "CLANGOROUS_SOUL": "Se mejora a sí mismo y a los aliados adyacentes en ATK, DEF y SPE_DEF en [1,2,4,SP]",
@@ -1262,6 +1263,7 @@
     "DRAGON_TAIL": "Ataca a un objetivo, infligiendo [30,60,100,SP] de SPECIAL y aumentando DEF y SPE_DEF en [1,2,3,SP]",
     "DRAGON_BREATH": "Ataque de área de efecto que inflige [25,50,100,SP] de TRUE en una línea detrás del objetivo",
     "ICICLE_CRASH": "Ataque de área de efecto que inflige [20,40,80,SP] de SPECIAL alrededor del objetivo",
+    "ROOT": "Todos los enemigos adyacentes quedan LOCKED durante 4 segundos y reciben [10,20,40,SP] SPECIAL mientras que el usuario y los aliados adyacentes se curan [10,20,40,SP] ",
     "TORMENT": "Aumenta la ATK_SPEED en [20,40,60,SP] %",
     "STOMP": "Daña al objetivo causando [3,4,5,SP] x ATK de SPECIAL",
     "PAYBACK": "Inflige [15,30,60,SP] de SPECIAL al objetivo. Daña el doble si el usuario tiene menos de la mitad de su vida.",
@@ -1304,6 +1306,7 @@
     "PSYCHIC_SURGE": "Aumenta el AP de todos los Pokémon PSYCHIC en [5,SP]%, excepto el usuario",
     "MIND_BLOWN": "Causa [50,SP] % de HP objetivo actual como SPECIAL",
     "PAYDAY": "Inflige [30,60,120,SP] de SPECIAL. Si el objetivo queda KO, el jugador recibe [1,2,3] oro",
+    "PICKUP": "Inflinge [30,60,120,SP] SPECIAL y roba un objeto del objetivo. Si no tiene objeto, roba [1,2,3] GOLD de tu oponente.",
     "BEAT_UP": "Invoca [1,2,3] Houndour ([100,SP]% HP, sin objetos)",
     "BLUE_FLARE": "Inflige [50,SP] de SPECIAL + 20 por nivel de sinergia de fuego",
     "FUSION_BOLT": "Inflige [50,SP] de SPECIAL + 40 por nivel de sinergia eléctrica",
@@ -1905,7 +1908,8 @@
     "ICY_ROCK": "Roca Helada",
     "HEAT_ROCK": "Roca Calor",
     "SMOOTH_ROCK": "Roca Suave",
-    "BLACK_AUGURITE": "Mineral Negro"
+    "BLACK_AUGURITE": "Mineral Negro",
+    "FIRE_SHARD": "Teralito Fuego"
   },
   "item_description": {
     "FOSSIL_STONE": "Un fósil de un Pokémon que vivió en la prehistoria",
@@ -2017,7 +2021,8 @@
     "ICY_ROCK": "Da sinergia ICE y cuenta por 3 para SNOW. Sólo se puede usar en Pokémon ROCK",
     "HEAT_ROCK": "Da sinergia FIRE y cuenta por 3 para SUN. Sólo se puede usar en Pokémon ROCK",
     "SMOOTH_ROCK": "Da sinergia GROUND y cuenta por 3 para SANDSTORM. Sólo se puede usar en Pokémon ROCK",
-    "BLACK_AUGURITE": "Da sinergia DARK y cuenta por 3 para NIGHT. Sólo se puede usar en Pokémon ROCK"
+    "BLACK_AUGURITE": "Da sinergia DARK y cuenta por 3 para NIGHT. Sólo se puede usar en Pokémon ROCK",
+    "FIRE_SHARD": "Sacrifica 2 de tu HP para darle permanentemente +2 ATK a un Pokémon FIRE. Se consume inmediatamente cuando se equipa."
   },
   "passive_description": {
     "NONE": "sin pasivo",
