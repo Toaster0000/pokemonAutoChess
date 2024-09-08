@@ -3133,6 +3133,7 @@
     "USER_KICKED": "Se te ha echado de esta sala",
     "USER_BANNED": "Se te ha vetado tu cuenta",
     "USER_RANK_TOO_LOW": "Tu rango de jugador no es suficiente para participar en esta sala",
+    "USER_NOT_AUTHENTICATED": "Por favor, vuelve a autenticar",
     "ROOM_FULL": "La sala está llena",
     "ROOM_EMPTY": "Esta sala se ha eliminado por falta de jugadores",
     "ROOM_DELETED": "Esta sala se ha eliminado",
